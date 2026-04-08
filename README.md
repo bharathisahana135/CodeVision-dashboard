@@ -1,1 +1,1 @@
-# CodeVision-dashboard
+The IT Operations Dashboard is an interactive data visualization web application designed to monitor and analyze key performance indicators (KPIs) for an IT services organization. It provides real-time insights into project health, employee metrics, and operational efficiency using data from employee-project assignments.
